@@ -38,8 +38,8 @@
 ### Currently working on:
 
 > [!TIP]
-> **SOC Infrastructure** • *Crafting cozy threat intel tools with OpenCTI & MISP*   
-> **K-mo Robot** • *A cute AI voice assistant living in an M5Stack CoreS3* 
+> **SOC Infrastructure** • *Crafting threat intel tools with OpenCTI & MISP*   
+> **K-mo Robot** • *AI voice assistant living in an M5Stack CoreS3* 
 
 ---
 
