@@ -1,102 +1,86 @@
 <div align="center">
 
-🌸 *Kamilė Zajančkauskaitė* 🌸  
-💗 Software Engineering Student @ Vilnius TECH 💗
+# ☁️ *Kamilė Zajančkauskaitė* ☁️  
+### ✨ `Software Engineering Student @ Vilnius TECH` ✨
 
-</div>
+<img src="https://raw.githubusercontent.com/Camishire/Camishire/output/github-snake-dark.svg" width="80%">
 
----
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Camishire/Camishire/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Camishire/Camishire/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Camishire/Camishire/output/github-snake.svg">
-</picture>
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B9D&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;SOC+member+at+VilniusTECH;Just+a+chill+girl)](https://git.io/typing-svg)
-  
-</div>
-
----
-<div align="center">
-
-## Tech Stack
-
-![Python](https://img.shields.io/badge/Python-FF6B9D?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FFAFCC?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-FF6B9D?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-<div align="center">
-
-## Cybersecurity Tools
-
-![OpenCTI](https://img.shields.io/badge/OpenCTI-CDB4DB?style=for-the-badge&logo=openbadges&logoColor=black)
-![MISP](https://img.shields.io/badge/MISP-FFC8DD?style=for-the-badge&logo=malwarebytes&logoColor=black)
-![Elastic](https://img.shields.io/badge/Elastic-FFAFCC?style=for-the-badge&logo=elastic&logoColor=black)
-![Wazuh](https://img.shields.io/badge/Wazuh-A2D2FF?style=for-the-badge&logo=security&logoColor=black)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-FFB4A2?style=for-the-badge&logo=cloudflare&logoColor=black)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFB7C5&center=true&vCenter=true&width=500&lines=Software+Engineering+student;SOC+member+at+VilniusTECH;Just+a+chill+girl+in+tech)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
+### My Fav Techs
+
 <div align="center">
 
-## Current Projects
-
-**SOC Infrastructure** • Building threat intel tools with OpenCTI & MISP  
-**K-mo Robot** • AI voice assistant on M5Stack CoreS3  
+![Python](https://img.shields.io/badge/Python-FFB7C5?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FFC8DD?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FFAFCC?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
-
-
-
-
+### Cybersecurity Trinkets
 
 <div align="center">
 
-## GitHub Stats
+![OpenCTI](https://img.shields.io/badge/OpenCTI-CDB4DB?style=for-the-badge&logo=openbadges&logoColor=white)
+![MISP](https://img.shields.io/badge/MISP-BDE0FE?style=for-the-badge&logo=malwarebytes&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic-A2D2FF?style=for-the-badge&logo=elastic&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-D0E1F9?style=for-the-badge&logo=security&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-FFD1A1?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Camishire&theme=buefy-dark&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+</div>
+
+---
+
+### Currently working on:
+
+> [!TIP]
+> **SOC Infrastructure** • *Crafting cozy threat intel tools with OpenCTI & MISP*   
+> **K-mo Robot** • *A cute AI voice assistant living in an M5Stack CoreS3* 
+
+---
+
+### ᓚᘏᗢ
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Camishire&theme=tokyonight&ring=FFB7C5&fire=FFB7C5&currStreakLabel=FFB7C5&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
+### Current Mood
+
 <div align="center">
 
-## Join along
-
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=kamileza&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kamileza&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false">
-  </a>
-
-
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=kamileza&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kamileza&cover_image=true&theme=novatorem&show_offline=false&background_color=1a1b26&interchange=true&bar_color=FFB7C5&bar_color_cover=false" width="450px">
+</a>
 
 </div>
 
 ---
+
+### 💌 Let's Be Friends!
+
 <div align="center">
 
-## Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CDB4DB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamilezajanckauskaite/)
+[![Instagram](https://img.shields.io/badge/Instagram-FFC8DD?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/camille.uwu)
+[![Gmail](https://img.shields.io/badge/Gmail-FFAFCC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamile.zajanck@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamilezajanckauskaite/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/camille.uwu)
-[![Gmail](https://img.shields.io/badge/Gmail-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamile.zajanck@gmail.com)
+![Discord](https://img.shields.io/badge/Discord-camishire-CDB4DB?style=for-the-badge&logo=discord&logoColor=white)
 
-</div>
+<br>
 
----
-<div align="center">
+`─── ⋆⋅☆⋅⋆ ───`
 
-### Thanks for stopping by!
+**Thanks for visiting my corner of the internet!**
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Camishire&color=ff69b4&style=for-the-badge)
-
-
+![Visitor Count](https://komarev.com/ghpvc/?username=Camishire&color=FFB7C5&style=flat-square&label=Visitors+So+Far)
 
 </div>
